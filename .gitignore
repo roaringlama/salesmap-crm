@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+.private/
+outputs/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+cloud-server/.wrangler/
+cloud-server/.sites-runtime/
+cloud-server/.vinext/
